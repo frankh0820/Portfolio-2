@@ -92,18 +92,18 @@ h2 {
 
 /* ---- Layout Containers ---- */
 
-.outershell1 {
+.opening {
   background: #edf4f5;
   text-align: center;
   padding-bottom: 40px;
 }
 
-.innershell {
+.section {
   text-align: center;
   padding: 30px 0;
 }
 
-.outershell2 {
+.end {
   background: #edf4f5;
   text-align: center;
   padding: 20px 0;
@@ -199,7 +199,7 @@ h2 {
   .line {
     margin-bottom: 50px;
   }
-  .innershell {
+  .section {
     border-style: none solid none solid;
     border-color: #edf4f5;
     border-width: 10px;
